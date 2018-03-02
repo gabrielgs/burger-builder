@@ -1,2 +1,2 @@
-# burguer-builder
-An burguer builder app - project from React Udemy Course
+# burger-builder
+An burger builder app - project from React Udemy Course
