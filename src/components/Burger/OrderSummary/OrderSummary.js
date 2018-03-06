@@ -2,6 +2,7 @@ import React, { Component, Fragment } from 'react'
 import Button from '../../UI/Button/Button'
 
 class OrderSummary extends Component {
+  // This could be a functional component, doesn't have to be a class
   componentWillUpdate() {
     console.log('[OrderSummary] WillUpdate');
   }
